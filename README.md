@@ -9,7 +9,7 @@ To start the project, run
 `npm install` to install dependencies.\
 `npm run start` to view in development mode.\
 `npm run test` to launch the test runner.\
-`npm run build` to build the package to a `dist` folder.\
+`npm run build` to build the package.
 
 ## Built with
 
