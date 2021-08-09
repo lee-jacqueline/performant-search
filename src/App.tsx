@@ -6,11 +6,9 @@
  * - API can be placed in a service folder that will serve all API requests
  */
 
-import React from "react";
+import React, { useState, useEffect } from "react";
 import Search from "./components/Search";
 import "./App.css";
-import { useState } from "react";
-import { useEffect } from "react";
 
 export type CountryType = {
   name: string;

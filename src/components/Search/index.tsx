@@ -7,9 +7,7 @@
  * @param {function} setSelectedCountry function to set the selected country state
  */
 
-import React from "react";
-import { useEffect } from "react";
-import { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { CountryType, InitialCountry } from "../../App";
 import "./Search.css";
 
